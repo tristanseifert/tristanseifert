@@ -4,5 +4,5 @@ Here you will find pretty much every single personal project I've started (and f
 - 🧑‍💻 I'm interested in operating systems and embedded development, with a focus on security; other times I do retrocomputing stuff and play with hardware.
 - 🌎 Check out [my blog](https://blraaz.me?utm_source=tristgithub) to see what I'm currently working on.
 - 📬 You can contact me [via email.](mailto:tristan@tseifert.me)
-- 🗄 Some of my projects may also be found [on GitLab](https://gitlab.trist.network/tseifert?utm_source=tristgithub) and associated [documentation here.](https://bookstack.trist.network?utm_source=tristgithub)
+- 🗄 Some of my projects may also be found [on GitLab](https://gitlab.com/tristanseifert?utm_source=tristgithub) and associated [documentation here.](https://bookstack.trist.network?utm_source=tristgithub)
 
